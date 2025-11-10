@@ -2,11 +2,11 @@
     "name": "tfpd-chain-ai-layer-2",
     "symbol": "Tkn",
     "description": "Test token for ftpd",
-    "image": "https://static.vecteezy.com/system/resources/previews/021/671/845/original/adidas-logo-transparent-free-png.png",
+    "image": "https://raw.githubusercontent.com/gavinmagnus69/solana-metadata/refs/heads/master/chain.png",
     "properties": {
       "files": [
         {
-          "uri": "https://static.vecteezy.com/system/resources/previews/021/671/845/original/adidas-logo-transparent-free-png.png",
+          "uri": "https://raw.githubusercontent.com/gavinmagnus69/solana-metadata/refs/heads/master/chain.png",
           "type": "image/png"
         }
       ],
