@@ -1,0 +1,17 @@
+{
+    "name": "tfpd-chain-ai-layer-2",
+    "symbol": "Tkn",
+    "description": "Test token for ftpd",
+    "image": "https://static.crypto.com/token/icons/niggachain-ai-layer-2/color_icon.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://static.crypto.com/token/icons/niggachain-ai-layer-2/color_icon.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+
+  
